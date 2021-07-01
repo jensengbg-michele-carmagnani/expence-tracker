@@ -17,6 +17,7 @@ const Expenses = (props) => {
   //set a condition in case there will not be any expense to reder
   
   return (
+  
     <div>
       <Card className="expenses">
         <ExpensesFilter
